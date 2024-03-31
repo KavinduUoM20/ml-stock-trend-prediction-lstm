@@ -1,5 +1,7 @@
 # Stock Trend Prediction - LSTM 
 
+## View Application 👉 (Here)[https://stocktrends-prediction.streamlit.app/]
+
 #### Create a Virtual Environment
 First, create a virtual environment using venv or virtualenv. Navigate to the directory where you want to create the environment and run:
 ```bash
